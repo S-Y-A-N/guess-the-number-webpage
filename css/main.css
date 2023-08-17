@@ -1,12 +1,12 @@
 html {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 body {
-    width: 50%;
-    max-width: 800px;
-    min-width: 480px;
-    margin: 0 auto;
+  max-width: 800px;
+  width: 50%;
+  margin: 0 auto;
+  min-width: 480px;
 }
   
 .form input[type="number"] {
